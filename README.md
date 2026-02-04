@@ -16,7 +16,7 @@ To write a program to predict car prices using a linear regression model and tes
  
 ## Program:
 ```
-/*
+
  Program to implement linear regression model for predicting car prices and test assumptions.
 Developed by: SHANTHOSH KUMAR R
 RegisterNumber:  212225040402
@@ -89,7 +89,7 @@ sm.qqplot(residuals, line='45', fit=True, ax=ax2)
 ax2.set_title("Q-Q Plot")
 plt.tight_layout()
 plt.show()
-*/
+
 ```
 
 ## Output:
